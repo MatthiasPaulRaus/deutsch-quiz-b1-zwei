@@ -5,6 +5,7 @@
   font-weight:700;
   font-family:Arial, Helvetica, sans-serif;
 }
+
 body{
   background-color:#f2e164;
   display:flex;
@@ -12,6 +13,7 @@ body{
   align-items: center;
   min-height: 100vh;
 }
+
 .app-wrapper{
   background-color: #f2e164;
   box-shadow: 3px  #eeff05bf;
@@ -21,6 +23,7 @@ body{
   border:3px solid white;
   border-radius: 10px;
 }
+
 .question-section-wrapper{
   width:100%;
   position: relative;
@@ -110,6 +113,7 @@ body{
   cursor: pointer;
   margin: 20px auto;
 }
+
 .falsch{
   width:50%;
   font-size: 24px;

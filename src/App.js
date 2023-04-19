@@ -1,5 +1,5 @@
 import React, {useState} from "react";
-import QuestionsList from "./components/QuestionsList"
+import QuestionsList from "./QuestionsList"
 import './App.css';
 import {v4 as uuidv4} from 'uuid';
 
