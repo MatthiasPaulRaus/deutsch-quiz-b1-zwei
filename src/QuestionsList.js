@@ -118,18 +118,18 @@ const QuestionsList = [
         {answer:"war mir klar, dass ich nicht studieren wollte.", isCorrect:false},
         ]    
     },
-    {question:"Am wichtigsten ist es",
+    {question:"Am wichtigsten ist es,",
     answersList: [
         {answer:"dem Käufer zu widersprechen.", isCorrect:false},
         {answer:"die Kunden zu überzeugen.", isCorrect:true},
         {answer:"den Interessenten eine Aufgabe zu geben.", isCorrect:false},
         ]    
     },
-    {question:"Ein attraktiver Arbeitgeber ist",
+    {question:"Ein attraktiver Arbeitgeber ist jemand,",
     answersList: [
-        {answer:"jemand, der gute Aufstiegschancen bietet.", isCorrect:true},
-        {answer:"jemand, der schöne Arbeitsplätze schafft.", isCorrect:false},
-        {answer:"jemand, der weiß, was die Mitarbeiter wünschen.", isCorrect:false},
+        {answer:"der gute Aufstiegschancen bietet.", isCorrect:true},
+        {answer:"der schöne Arbeitsplätze schafft.", isCorrect:false},
+        {answer:"der weiß, was die Mitarbeiter wünschen.", isCorrect:false},
         ]    
     },
     {question:"Ein gutes Betriebsklima",
